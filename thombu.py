@@ -1,1 +1,1 @@
-print("Vaze lund")
+print("Vaze lund bhokacha")
